@@ -2,11 +2,58 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="Day 04:war" />
+      <artifact name="Day 06:war" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19f4c5d8-ae18-45b9-afe9-afbd836e7a63" name="Default Changelist" comment="" />
+    <list default="true" id="fd78f8e7-64f8-4b69-b750-53d4817a0f5c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Day 05/CalculatorPRG/src/main/java/mum/edu/controller/CalculatorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/CalculatorPRG/src/main/java/mum/edu/domain/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/CalculatorPRG/src/main/java/mum/edu/service/CalculatorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/CalculatorPRG/src/main/java/mum/edu/service/impl/CalculatorServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/CalculatorPRG/src/main/webapp/WEB-INF/config/springmvc-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/CalculatorPRG/src/main/webapp/WEB-INF/jsp/CalculatorForm.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/CalculatorPRG/src/main/webapp/WEB-INF/jsp/CalculatorView.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/CalculatorPRG/src/main/webapp/WEB-INF/jsp/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/CalculatorPRG/src/main/webapp/WEB-INF/jsp/page-not-found.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/CalculatorPRG/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/CalculatorPRG/src/main/webapp/resources/images/Puppet404.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/CalculatorPRG/src/main/webapp/resources/images/error_page.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/CalculatorPRG/src/main/webapp/resources/mystyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/StarbuckSessionAttribute/src/main/java/mum/edu/controller/AdviceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/StarbuckSessionAttribute/src/main/java/mum/edu/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/StarbuckSessionAttribute/src/main/java/mum/edu/data/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/StarbuckSessionAttribute/src/main/java/mum/edu/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/StarbuckSessionAttribute/src/main/java/mum/edu/repository/AdviceRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/StarbuckSessionAttribute/src/main/java/mum/edu/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/StarbuckSessionAttribute/src/main/java/mum/edu/repository/impl/AdviceRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/StarbuckSessionAttribute/src/main/java/mum/edu/repository/impl/UserRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/StarbuckSessionAttribute/src/main/java/mum/edu/service/AdviceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/StarbuckSessionAttribute/src/main/java/mum/edu/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/StarbuckSessionAttribute/src/main/java/mum/edu/service/impl/AdviceServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/StarbuckSessionAttribute/src/main/java/mum/edu/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/StarbuckSessionAttribute/src/main/webapp/WEB-INF/config/springmvc-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/StarbuckSessionAttribute/src/main/webapp/WEB-INF/error-forbidden.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/StarbuckSessionAttribute/src/main/webapp/WEB-INF/jsp/advice.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/StarbuckSessionAttribute/src/main/webapp/WEB-INF/jsp/display.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/StarbuckSessionAttribute/src/main/webapp/WEB-INF/jsp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/StarbuckSessionAttribute/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/StarbuckSessionAttribute/src/main/webapp/resources/images/403-forbidden-error.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/StarbuckSessionAttribute/src/main/webapp/resources/images/Puppet404.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 05/StarbuckSessionAttribute/src/main/webapp/resources/images/error_page.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/students/contoller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/students/contoller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/students/domain/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/students/domain/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/errorMessages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/servlet-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/registration.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 04/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,10 +74,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/app04a/domain/Product.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/students/domain/Phone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="140">
+              <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -39,13 +86,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-      </list>
-    </option>
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -59,21 +99,24 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Product4aForm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lab7_Valid_Sol" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Product4aForm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lab7_Valid_Sol" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Product4aForm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
       </expand>
       <select />
     </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1035" />
@@ -92,43 +135,26 @@
         <subPane>
           <expand>
             <path>
-              <item name="Product4aForm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day 04" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab7_Valid_Sol" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day 06" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Product4aForm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day 04" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab7_Valid_Sol" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day 06" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Product4aForm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day 04" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Product4aForm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day 04" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab7_Valid_Sol" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day 06" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Product4aForm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day 04" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab7_Valid_Sol" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day 06" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="app04a" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Product4aForm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day 04" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="app04a" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -138,7 +164,6 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
@@ -147,8 +172,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Data Drive\Document MUM\06 WAA\Homework\Day 04\src" />
-      <recent name="C:\Data Drive\Document MUM\06 WAA\Homework\Day 04" />
+      <recent name="C:\Data Drive\Document MUM\06 WAA\Homework\Day 06\src" />
+      <recent name="C:\Data Drive\Document MUM\06 WAA\Homework\Day 06" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -165,16 +190,17 @@
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.19" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.19" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/Day_06_war/" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="Day 04:war">
+        <artifact name="Day 06:war">
           <settings>
-            <option name="CONTEXT_PATH" value="/Day_04_war" />
+            <option name="CONTEXT_PATH" value="/Day_06_war" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Product4aForm" />
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Lab7_Valid_Sol" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -182,7 +208,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="37799" />
+        <option name="DEBUG_PORT" value="38149" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -232,7 +258,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="Day 04:war" />
+          <artifact name="Day 06:war" />
         </option>
       </method>
     </configuration>
@@ -242,17 +268,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="19f4c5d8-ae18-45b9-afe9-afbd836e7a63" name="Default Changelist" comment="" />
-      <created>1559492216422</created>
+      <changelist id="fd78f8e7-64f8-4b69-b750-53d4817a0f5c" name="Default Changelist" comment="" />
+      <created>1559493170873</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1559492216422</updated>
-      <workItem from="1559492221147" duration="474000" />
+      <updated>1559493170873</updated>
+      <workItem from="1559493174707" duration="172000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="474000" />
+    <option name="totallyTimeSpent" value="172000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
@@ -276,7 +302,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31638417" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32909605" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -287,6 +313,7 @@
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Bean Validation" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -299,10 +326,10 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/app04a/domain/Product.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/students/domain/Phone.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="140">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
         </state>
       </provider>
     </entry>
